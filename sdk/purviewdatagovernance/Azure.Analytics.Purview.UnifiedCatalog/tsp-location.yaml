@@ -2,4 +2,3 @@ directory: specification\purviewdatagovernance\Azure.Analytics.Purview.UnifiedCa
 commit: 351dae67db70edac173e13c364beaa22fad35645
 repo: Azure/azure-rest-api-specs
 emitterPackageJsonPath: eng/azure-typespec-http-client-csharp-emitter-package.json
-
